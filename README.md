@@ -1,82 +1,52 @@
 <table>
-  <tr>
-    <td width="48%" valign="top">
-
+<tr>
+<td width="42%" valign="middle" align="center">
 <pre>
-@@@@@@@@%%@@@@@@@@%%@@@@@@@%%%#####%%%%%%%%%%%%%
-@@@@@@@%%@@@@@@@%%@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%
-@@@@@@@@@@@@%%%%%@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%
-@@@@@@@@@@@@%%%@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@%%*+=+=----=*#%@@@@@@@@@@@@@@@@
-@@@@@%@%@@%@@%*=:.:...::-+*==.:-+++%@@@@@@@@@@@@
-%%%%%#%##%##*-::-=**++**+=*+---=**+=+%@@@@@@@@@@
-%%########+-::=+*#%@@@@%%*##@@@%*+*+==%@@@@@@@@@
-@@@@@@@@%%=:-+#%%#%@@@@@@@@@@@@@%%@@%##@@@@@@@@@
-*****+++++==*@@@@##%@@@%##****#@@@@@%*#@@@@@@@@@
-::::.:.....=@@@#++===++*++=---=+#%@@@%%@@@@@@@@@
--.::....:. .*@%=-----====--=+++++==%@%@@@@@@@@@@
-::::::::.. .:*%==*%%@@%#+=+%%@%%#*=*@%@@@@@@@@@@
-..............%**#%%@@@%+:*%%%@%#+-+*=@@@@@@@@@@
-:...::::--:.:+*+==+**+=+: :+===-:.:-==%@@@@@@@@@
-=:::::::::::-*+:::::-=-. . .-=--::..=-@@@@@@@@@@
-############*==-.-++#%+=+=++=+**==.:.+@@@*+***##
-*++***********:-:=+@@##@@@@%*+%@*=-=#@@@@+=*+=*#
-..-=:-:....-===--=+**##****++*+++==%@@@@##%*=*#%
- :**:..: ..*+--:-=++=-=+***+=---==*@@@@@*==--=-=
--#@@##*++++%%%#--==+=:--==--:.:==-*@@@@@*=---:--
-***#@@@@@@@@@@==*+-++++===++***+=:-#@@@%+=-:.-==
--=:-=++**++***+-:::=+*#%@@@%%#++=-:.#@@@%#*++##*
-=#*===+*#+=#*%-.--:=+++*###**++==-:..-%@@#**#@%#
-=#%**#*%%*+%%- -+.-=+++******++==-.   .:-==+#@%%
-*%%#+*%@@#*+:  :=:==++********+**:         ..-**
-#%#%**%*+-.    .-::+***#####**#+-.
-@@%%#=:.        .:.=#***######+.
+.......   .:::;rrrr;.....,,...
+,,,..,;s3hMGSGGGMMMMM2rii,...
+;;iishSSG5533222As3MGM5A55r,.
+ii2MGM3Ar;:. ,:isr;,,:i2sA5A,
+:i3H3r::;;.   ,..,::..,, .:r:
+HHHX;  :rssi;;isXA25Ar,  .,r:
+GB&G, i3hMHHh3353h33352AX, :
+SB&BH:Xh2r;:,;s53X;:,;is5r.:
+#9BBBh:Ar;:.::;3Gr;;:;s2MAXA
+HHSBhAA3Mh553h3B&H33hHGSSH35
+3333255SGMh2s3SGGSH2A5hMSSG2
+rrrrr3HGM2;.ir:::,i2r:s5MM2.
+#SS353hh32rrrrrssXAAXXA53:
+99#s53HMh2A3M32XsX5MHM55X
+iii:.,235325hMMMMHHHh35M2
+rrri;s33MG3AXri;;::;rA5MSH:
+s25sXs##HG52AXriiisX223MH&SX
 </pre>
+</td>
+<td width="58%" valign="top">
+<h2>Joao Alves</h2>
+<p><strong>Analista de Dados</strong><br>
+Em transicao para Ciencia de Dados<br>
+Graduando em Engenharia de Software</p>
 
-    </td>
-    <td width="52%" valign="top">
+<p><strong>Stack</strong><br>
+<code>Python</code> <code>SQL</code> <code>Power BI</code><br>
+<code>Docker</code> <code>Git</code></p>
 
-# Joao Alves
+<p><strong>Atuacao</strong><br>
+50+ dashboards em Power BI<br>
+Fundador da Converte Sistemas<br>
+Gerente de Projetos de TI e Dados<br>
+Professor de Banco de Dados<br>
+Caminho Dev · Cascavel</p>
 
-**Analista de Dados**  
-**Futuro Cientista de Dados**  
-**Engenharia de Software**
-
-Trabalho com dados, automacao, dashboards e gestao de projetos de TI. Gosto de transformar operacoes confusas em processos medidos, acompanhaveis e mais faceis de decidir.
-
-## Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Sobre mim
-
-- Mais de **50 dashboards** desenvolvidos em Power BI.
-- Fundador da **Converte Sistemas**.
-- Gerente de projetos de TI e atuante na area de dados da Converte.
-- Automatizei a gestao operacional e criei dashboards de acompanhamento.
-- Professor de **Banco de Dados** na **Caminho Dev**, em Cascavel.
-- Membro dirigente do **CREA Junior**.
-- Estudante de concursos e de Engenharia de Software.
-
-## CREA Junior
-
-No CREA Junior, participo de uma vivencia ligada ao [Sistema Confea/Crea](https://www.confea.org.br/), que representa e fiscaliza o exercicio profissional nas areas de engenharia, agronomia e geociencias.
-
-Essa atuacao fortalece minha experiencia com lideranca, responsabilidade profissional, etica, comunicacao e trabalho em equipe.
-
-    </td>
-  </tr>
+<p><strong>Sobre mim</strong><br>
+Automatizei a gestao operacional da<br>
+Converte e criei seus dashboards.<br>
+Dirigente do CREA Junior, com vivencia<br>
+em lideranca, etica e trabalho em equipe.<br>
+Tambem estudo para concursos.</p>
+</td>
+</tr>
 </table>
-
----
 
 <div align="center">
 
