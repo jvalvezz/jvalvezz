@@ -1,10 +1,6 @@
-<table>
+<table width="100%">
 <tr>
-<td width="48%" valign="middle">
-<pre>
-<table>
-<tr>
-<td width="48%" valign="middle">
+<td width="45%" valign="top" align="left">
 <pre>
                   .   ....................
 ..........................................
@@ -38,45 +34,7 @@
 %%%%%%%%%%%%%+*+:----:::::-*#%%%%%%%%%%%%%
 </pre>
 </td>
-<td width="52%" valign="top">
-
-<h1>Joao Alves</h1>
-
-<p>
-<img src="https://img.shields.io/badge/Analista_de_Dados-0969DA?style=flat-square" alt="Analista de Dados">
-<img src="https://img.shields.io/badge/Futuro_Cientista_de_Dados-8250DF?style=flat-square" alt="Futuro Cientista de Dados">
-<img src="https://img.shields.io/badge/Engenharia_de_Software-1F883D?style=flat-square" alt="Engenharia de Software">
-</p>
-
-<h3>Stack</h3>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
-<h3>Atuacao</h3>
-<p>
-<img src="https://img.shields.io/badge/Power_BI-50%2B_dashboards-F2C811?style=flat-square&labelColor=2D333B" alt="50+ dashboards em Power BI"><br>
-<img src="https://img.shields.io/badge/Converte_Sistemas-Fundador-0969DA?style=flat-square&labelColor=2D333B" alt="Fundador da Converte Sistemas"><br>
-<img src="https://img.shields.io/badge/Projetos_de_TI-Gerente-DA3633?style=flat-square&labelColor=2D333B" alt="Gerente de Projetos de TI"><br>
-<img src="https://img.shields.io/badge/Caminho_Dev-Professor_de_Banco_de_Dados-1F883D?style=flat-square&labelColor=2D333B" alt="Professor de Banco de Dados">
-</p>
-
-<h3>Sobre mim</h3>
-<p>Transformo dados em decisoes e processos em operacoes mensuraveis. Na Converte, automatizei a gestao operacional e desenvolvi os dashboards de acompanhamento.</p>
-<p>Sou dirigente do <strong>CREA Junior</strong>, onde desenvolvo lideranca, etica profissional, comunicacao e trabalho em equipe. Tambem estudo Engenharia de Software e me preparo para concursos.</p>
-
-</td>
-</tr>
-</table>
-
-
-</pre>
-</td>
-<td width="52%" valign="top">
+<td width="55%" valign="top">
 
 <h1>Joao Alves</h1>
 
